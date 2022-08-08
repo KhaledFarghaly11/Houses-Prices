@@ -4,5 +4,6 @@ missingno==0.5.1
 notebook==6.4.12
 pip-chill==1.0.1
 sklearn==0.0
+sklearn-features==0.0.2
 wincertstore==0.2
 xgboost==1.6.1
